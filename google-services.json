@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453067246582",
+    "project_id": "hooked-64ec0",
+    "storage_bucket": "hooked-64ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453067246582:android:6ac2371eea8f1a167a95d7",
+        "android_client_info": {
+          "package_name": "com.hooked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453067246582-e6a5v7gant6c9e615gpnlj3qiv8dmk0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWmKmMeppHLVEfoGz4b3Hd7xmSHaONY4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453067246582-e6a5v7gant6c9e615gpnlj3qiv8dmk0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
